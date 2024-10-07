@@ -1,6 +1,7 @@
 # Programmable-Timer
 
 ITEMS: 
+
 LCD screen
 
 1 button to start and stop the timer
